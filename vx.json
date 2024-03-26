@@ -1,0 +1,27 @@
+{
+    "created_time": "2024-03-25T11:39:42Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "created_time": "2024-03-25T12:19:05Z",
+            "id": "6",
+            "modified_time": "2024-03-26T09:07:19Z",
+            "name": "第2章 类型、运算符与表达式.md",
+            "signature": "105073791298489",
+            "tags": [
+            ]
+        }
+    ],
+    "folders": [
+        {
+            "name": "image"
+        },
+        {
+            "name": "第二章代码练习"
+        }
+    ],
+    "id": "1",
+    "modified_time": "2024-03-25T11:39:42Z",
+    "signature": "115802619601534",
+    "version": 3
+}
