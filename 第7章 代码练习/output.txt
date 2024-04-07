@@ -1,0 +1,5 @@
+hello world, stdout
+bilibilb | hello world
+hangzhong  | hello world
+nihao | hello world
+1234像首歌 | hello world
